@@ -42,25 +42,53 @@ a {
 
 .top {
     display: flex;
-    flex-direction: row;
     background-color: #1F2937;
-    align-items: center;
-    justify-content: space-around;
-    flex-direction: row;
-    flex-wrap: wrap;
-    }
-
-
-
-
+    justify-content: center;
+    padding: 50px;
+    gap: 100px;
+    
+}
 
 .hero-main {
-       font-size: 48px;
-}
-
-.sub-text {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    gap: 5px;
+    
+}
+
+h1 {
+    font-size: 52px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+p {
+    font-size: 18px;
+    color: #E5E7EB;
+    
+}
+
+.top-button {
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: #3882F6;
+    width: 150px;
+    padding: 10px;
+    color: white;
+    
+}
+
+.middle {
+    
+}
+
+
+
+
+
+
     
 
-}
+
