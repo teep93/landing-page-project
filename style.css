@@ -80,10 +80,30 @@ p {
     
 }
 
-.middle {
+.middle-header {
+    background-color: white;
+    padding: 50px;
+    
+    
+
+
+}
+
+h3 {
+    font-size: 36px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+
+.image-info {
+    font-size: 18px;
     
 }
 
+.txtimages {
+    display: flex;
+}
 
 
 
