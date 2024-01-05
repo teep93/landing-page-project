@@ -83,6 +83,7 @@ p {
 .middle-header {
     background-color: white;
     padding: 50px;
+    gap: 100px;
     
     
 
@@ -98,14 +99,26 @@ h3 {
 
 .image-info {
     font-size: 18px;
+    margin: 20px;
+    
     
 }
 
 .txtimages {
-    display: flex;
+   display: flex;
+   justify-content: center;
+   gap: 52px;
+   text-align: center;
+   margin: 50px;
+   
+    
 }
 
-
+.midcontent img {
+    border: 3px solid #3882F6;
+    border-radius: 10px;
+    
+}
 
 
 
